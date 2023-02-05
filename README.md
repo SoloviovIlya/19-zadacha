@@ -27,14 +27,19 @@ while ( j<k )
 {
 
   if (a[j] != a[k])
+  
   {
+  
     flag = false;
+    
   }
   
   j++;
   
   k--;
+  
 }
+
 if (flag == true)
 
 {
